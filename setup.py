@@ -13,7 +13,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name='FacialAuthenticatedVotingSystem',
+    name='Another_U',
     version='0.0.1',
     author='Chandu',
     author_email='projects.xca@gmail.com',
